@@ -1,4 +1,3 @@
-# MyInfo
 # 💫 About Me:
 I'm a student of Pundra University of Science & Technology. I currently don't working. I'm learning. I learned programming language C, C++, Java, HTML Basic, MS Word, MS Excel, MS Powerpoint, etc. I am learning Android app developing.  
 
